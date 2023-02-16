@@ -1,2 +1,1 @@
 # Sneak
-Project sneak - mentorama
